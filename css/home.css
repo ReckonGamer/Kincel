@@ -1,9 +1,5 @@
 
-    @media only screen and (min-width: 0){
-        .waves-effect{
-        background-color: #434750;
-        color: white;
-    } 
+    @media only screen and (min-width: 0){        
         .aboutus{
             margin-top: 3%;
             margin-left: 8%;
@@ -63,14 +59,12 @@
             color: #FFD700;
             font-size: 35px;
             font-family: 'Vanity-LightWide';
-        }
-        .dropdown-content{
-            background-color: #434750;
-        }
+        }        
         .dropdown-content li>a, .dropdown-content li>span{
             color: #FFD700;
             font-size: 20px;
             background-image: url('../fondopantalla.jpg');
+            text-decoration: none;
         } 
         .dropdown-content li>a:hover{
             color: #FFD700;
@@ -103,7 +97,11 @@
             font-style: italic;
             font-size: 30px;
             text-decoration: underline;
-        }      
+            text-align: center;
+        }  
+        footer li a{
+            text-decoration: none;
+        }    
         p{
             color: #FFD700;
             font-size: 30px;
