@@ -49,6 +49,7 @@
         }
         nav a{
             color: #FFD700;
+            text-decoration: none;
         }
         .dropdown-trigger{
             color: #FFD700;
@@ -90,23 +91,26 @@
             text-align: center;
             font-family: 'Vanity-BoldWideItalic';
             font-size: 40px;
+            padding-bottom: 15px;
         }        
         h5{
             font-weight: bold;
             color:#FFD700;
             font-style: italic;
-            font-size: 30px;
-            text-decoration: underline;
+            font-size: 40px;
             text-align: center;
         }  
-        footer li a{
+        footer ul li a{
             text-decoration: none;
-        }    
+
+        }        
         p{
             color: #FFD700;
             font-size: 30px;
             font-weight: bold;
             font-family:'Vanity-Light';
             border-style: solid 2px black;
-        }        
+        }  
+
+        
     }
