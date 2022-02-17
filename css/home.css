@@ -1,0 +1,114 @@
+
+    @media only screen and (min-width: 0){
+        .waves-effect{
+        background-color: #434750;
+        color: white;
+    } 
+        .aboutus{
+            margin-top: 3%;
+            margin-left: 8%;
+            margin-right: 8%;
+            border-style:outset;
+            border-color: #FFD700;
+            border-width: 10px;
+            padding: 5%;
+            background-image: url('../fondopantalla.jpg');
+        } 
+        #AboutUs{
+            font-family: 'Vanity-BoldItalic';
+            
+        }
+        .founders{
+            margin-top: 5%;
+            margin-left: 8%;
+            margin-right: 8%;
+            border-style:outset;
+            border-color: #FFD700;
+            border-width: 10px;
+            padding: 5%;
+            background-image: url('../fondopantalla.jpg');
+        }  
+
+        .vision{
+            margin-top: 5%;
+            margin-left: 8%;
+            margin-right: 8%;
+            border-style:outset;
+            border-color: #FFD700;
+            border-width: 10px;
+            padding: 5%;
+            background-image: url('../fondopantalla.jpg');
+        }                
+        
+        body{
+            background-image: url('../fondopantalla.jpg');
+        }     
+        img{
+            width: 80%;
+        }   
+        .nav-wrapper{
+            background-image: url('../fondopantalla.jpg');
+            border-style:outset;
+            border-color: #434750;
+        }
+        nav a{
+            color: #FFD700;
+        }
+        .dropdown-trigger{
+            color: #FFD700;
+            font-size: 35px;
+            font-family: 'Vanity-Light';
+        }
+        a .dropdown-trigger{
+            color: #FFD700;
+            font-size: 35px;
+            font-family: 'Vanity-LightWide';
+        }
+        .dropdown-content{
+            background-color: #434750;
+        }
+        .dropdown-content li>a, .dropdown-content li>span{
+            color: #FFD700;
+            font-size: 20px;
+            background-image: url('../fondopantalla.jpg');
+        } 
+        .dropdown-content li>a:hover{
+            color: #FFD700;
+            font-size: 20px;
+            background-color: #434750;
+        }                       
+        a{
+            color: #FFD700;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: 'Vanity-Bold';
+            background-color: transparent;
+        }
+        .container li a{
+            display: inline;
+        }
+        h1{
+            color:#FFD700;
+            font-weight: bold;
+            text-decoration: underline;        
+            text-shadow:#434750  3px 3px 3px;
+            margin-top: 5px;
+            text-align: center;
+            font-family: 'Vanity-BoldWideItalic';
+            font-size: 40px;
+        }        
+        h5{
+            font-weight: bold;
+            color:#FFD700;
+            font-style: italic;
+            font-size: 30px;
+            text-decoration: underline;
+        }      
+        p{
+            color: #FFD700;
+            font-size: 30px;
+            font-weight: bold;
+            font-family:'Vanity-Light';
+            border-style: solid 2px black;
+        }        
+    }
